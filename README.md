@@ -7,3 +7,4 @@ the blade holder, after the stepper closes the holder
 microtome is ready to take the sections. Here I have
 used the BTT SKR2 board for controlling the motion
 of the stepper, Dynamixel Motor, and Rpi Pico.
+
